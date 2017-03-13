@@ -13,4 +13,5 @@
 \f0 \'d3\'c3\'c0\'b4\'c1\'b7\'cf\'b0
 \f1 git\
 
-\f0 \'ca\'d4\'ca\'d4}
+\f0 \'ca\'d4\'ca\'d4,\'d2\'d1\'be\'ad\'cc\'e1\'bd\'bb\'b9\'fd\'d2\'bb\'b4\'ce\'c1\'cb\
+\'cf\'d6\'d4\'da\'ca\'c7\'b5\'da\'d2\'bb\'b4\'ce\'b8\'c4\'b6\'aflele;}
